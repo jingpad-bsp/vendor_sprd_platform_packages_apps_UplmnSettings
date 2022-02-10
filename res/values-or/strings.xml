@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uplmn_setting_title">"ପସନ୍ଦଗୁଡ଼ିକ"</string>
+<string name="uplmn_setting">"UPLMN ସେଟିଂସ୍‌"</string>
+<string name="uplmn_index">"ଇଣ୍ଡେକ୍ସ (0 ରୁ ଆରମ୍ଭ)"</string>
+<string name="uplmn_id">"ଆଇଡ଼ି ନମ୍ବର୍‌:"</string>
+<string name="uplmn_type">"(0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM):ଟାଇପ୍‌ କରନ୍ତୁ"</string>
+<string name="no_sim_card_prompt">"ଦୟାକରି USIM କାର୍ଡ଼ ଭର୍ତ୍ତିକରନ୍ତୁ ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟାକରନ୍ତୁ"</string>
+<string name="index_error_uplmn">"ସୂଚକାଂକ ଖାଲି ଅଛି, ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="type_is_emplty_error_uplmn">"ଟାଇପ ଖାଲି ଅଛି, ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="number_too_short_uplmn">"Id ନମ୍ବର ବହୁତ ଛୋଟ, ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="type_is_wrong_uplmn">"ଅମାନ୍ୟ ଟାଇପ, ଆଉଥରେ ଚେଷ୍ଟା କରନ୍ତୁ"</string>
+<string name="fail_uplmn">"ବିପଳହେଲା ଏବଂ ପୁନର୍ବାର ଚେଷ୍ଟାକରନ୍ତୁ |"</string>
+<string name="set_uplmn_unsuccessful">"ସେଟ୍‌ କରାଯାଇଥିବା uplmn ଅସପଳ!"</string>
+<string name="menu_new_uplmn">"ନୁଆ UPLMN"</string>
+<string name="menu_delete_uplmn">"UPLMN ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="delete_uplmn_confirmation">"ଏହି UPLMN କୁ ହଟାନ୍ତୁ?"</string>
+<string name="uplmn_exceeds_capacity">"କାଉଣ୍ଟ ସିମ୍‌ ର କ୍ଷମତାରୁ ଅତିକ୍ରମ କରୁଛି!"</string>
+<string name="delete">"କାଟ"</string>
+<string name="delete_uplmn_successfully">"uplmn କୁ ସଫଳତାର ସହ ଅପସାରିତ କରନ୍ତୁ"</string>
+<string name="id_is_wrong_uplmn">"ଆଇଡ଼ି ନିଶ୍ଚିତରୁପେ ଗୋଟିଏ ନମ୍ବର୍‌ ସହ ସେଟ୍‌ ହେବ!"</string>
+<string name="cancel">"ବାତିଲ କରନ୍ତୁ"</string>
+</resources>

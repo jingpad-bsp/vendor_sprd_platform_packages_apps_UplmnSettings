@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="uplmn_setting_title">"ဦးစားပေးများ"</string>
+<string name="uplmn_setting">"UPLMN ဆက်တင်များ"</string>
+<string name="uplmn_index">"အက္ခရာစဉ် (0 မှစတင်သည်):"</string>
+<string name="uplmn_id">"Id နံပါတ်:"</string>
+<string name="uplmn_type">"(0:UTRAN 1:GSM 2:E-UTRAN 3:UTRAN/E-UTRAN/GSM) ရိုက်ပါ:"</string>
+<string name="no_sim_card_prompt">"ကျေးဇူးပြု၍ USIM ကဒ်ထည့်ပြီး ထပ်ကြိုးစားပါ"</string>
+<string name="index_error_uplmn">"အညွှန်း ဗလာဖြစ်သည်၊ ထပ်ကြိုးစားပါ။"</string>
+<string name="type_is_emplty_error_uplmn">"အမျိုးအစား ဗလာဖြစ်သည်၊ ထပ်ကြိုးစားပါ။"</string>
+<string name="number_too_short_uplmn">"ID နံပါတ် တိုလွန်းသည်၊ ထပ်ကြိုးစားပါ။"</string>
+<string name="type_is_wrong_uplmn">"အကျုံးမဝင်သော အမျိုးအစားဖြစ်သည်။ ထပ်ကြိုးစားပါ။"</string>
+<string name="fail_uplmn">"ကျရှုံးသည် ထပ်ကြိုးစားပါ။"</string>
+<string name="set_uplmn_unsuccessful">"UPLMN တပ်ဆင်ခြင်း မအောင်မြင်ပါ!"</string>
+<string name="menu_new_uplmn">"UPLMN အသစ်"</string>
+<string name="menu_delete_uplmn">"UPLMN ကို ဖျက်ပါ"</string>
+<string name="delete_uplmn_confirmation">"ဤ UPLMN ကို ဖျက်မလား။"</string>
+<string name="uplmn_exceeds_capacity">"အရေအတွက်သည် sim မှ လက်ခံနိုင်စွမ်းကို ကျော်သွားပါပြီ!"</string>
+<string name="delete">"ပယ်ဖျက်သည်"</string>
+<string name="delete_uplmn_successfully">"UPLMN ကို အောင်မြင်စွာ ဖျက်ပစ်ပါ"</string>
+<string name="id_is_wrong_uplmn">"ID ကို နံပါတ်တစ်ခုဖြင့် သတ်မှတ်ရပါမည်။"</string>
+<string name="cancel">"ပယ်ဖျက်ပါ"</string>
+</resources>
